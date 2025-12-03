@@ -167,8 +167,10 @@ Workflow ini berhasil memberikan insight yang informatif dan model klasifikasi y
 11. **Screenshot Scatter Plot (Graduation Rate vs New Stud from Top 10%)**
     ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20111354.png)
 13. **Screenshot Decision Tree Predictor**
+    
     ![Decision Tree Output](http://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20113839.png)
 15. **Screenshot Scorer (confusion matrix)**
     ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20114058.png)
 17. **Gambar Decision Tree (hasil dari Decision Tree to Image)**
+    
     ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20114135.png)
