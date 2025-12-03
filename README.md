@@ -131,6 +131,14 @@ Contoh hasil (sesuai workflow):
 
 ---
 
+### **4.4 Insight dari Scatter Plot (Graduation Rate vs New Stud from Top 10%)**
+
+Terdapat korelasi positif yang kuat antara persentase mahasiswa baru dari 10% teratas SMA dengan tingkat kelulusan (Graduation Rate).
+Universitas yang menerima mahasiswa dengan kualitas akademik tinggi (berasal dari top 10%) cenderung memiliki Graduation Rate yang lebih tinggi (di atas 60-80%).
+Sebaliknya, universitas dengan proporsi mahasiswa top 10% yang rendah (0-30%) cenderung memiliki Graduation Rate yang lebih rendah dan tersebar (20-50%).
+Interpretasi: Kualitas input mahasiswa merupakan faktor penting yang memengaruhi keberhasilan kelulusan. Universitas dengan seleksi masuk yang lebih ketat dan menerima siswa berkualitas tinggi memiliki peluang lebih besar untuk menghasilkan lulusan tepat waktu.
+Pola ini menunjukkan bahwa kemampuan awal mahasiswa menjadi prediktor yang signifikan terhadap tingkat kelulusan institusi.
+
 ## **5. Kesimpulan**
 
 Melalui workflow pada KNIME, proses analisis data dapat berjalan secara sistematis mulai dari pembersihan data, eksplorasi visual, pembuatan label, normalisasi, pembagian data, pembangunan model hingga evaluasi.
@@ -149,11 +157,20 @@ Workflow ini berhasil memberikan insight yang informatif dan model klasifikasi y
 1. **Screenshot lengkap workflow KNIME**
    ![Decision Tree Output](images/decision_tree.png)
 3. **Screenshot Statistics node**
-4. **Screenshot Linear Correlation**
-5. **Screenshot Box Plot (Tuition vs Graduation Rate)**
-6. **Screenshot Scatter Plot (Faculty Ratio vs Graduation Rate)**
-7. **Screenshot Row Sampler (training dan testing)**
-8. **Screenshot Decision Tree Learner (configuration)**
-9. **Screenshot Decision Tree Predictor**
-10. **Screenshot Scorer (confusion matrix)**
-11. **Gambar Decision Tree (hasil dari Decision Tree to Image)**
+   ![Decision Tree Output](images/decision_tree.png)
+5. **Screenshot Linear Correlation**
+   ![Decision Tree Output](images/decision_tree.png)
+7. **Screenshot Box Plot (Tuition vs Graduation Rate)**
+   ![Decision Tree Output](images/decision_tree.png)
+9. **Screenshot Scatter Plot (Faculty Ratio vs Graduation Rate)**
+    ![Decision Tree Output](images/decision_tree.png)
+11. Screenshot Scatter Plot (Graduation Rate vs New Stud from Top 10%)
+    ![Decision Tree Output](images/decision_tree.png)
+13. **Screenshot Decision Tree Predictor**
+    ![Decision Tree Output](images/decision_tree.png)
+15. Screenshot Scorer (confusion matrix)
+    ![Decision Tree Output](images/decision_tree.png)
+17. Gambar Decision Tree (hasil dari Decision Tree to Image)
+    ![Decision Tree Output](images/decision_tree.png)
+19. **Screenshot Scorer (confusion matrix)**
+20. **Gambar Decision Tree (hasil dari Decision Tree to Image)**
