@@ -159,7 +159,7 @@ Workflow ini berhasil memberikan insight yang informatif dan model klasifikasi y
 3. **Screenshot Statistics node**
    ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20102851.png)
 5. **Screenshot Linear Correlation**
-   ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20102641.png)
+   ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20120239.png)
 7. **Screenshot Box Plot (Tuition vs Graduation Rate)**
    ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20103000.png)
 9. **Screenshot Scatter Plot (Faculty Ratio vs Graduation Rate)**
