@@ -155,7 +155,7 @@ Workflow ini berhasil memberikan insight yang informatif dan model klasifikasi y
 ## **6. Lampiran**
 
 1. **Screenshot lengkap workflow KNIME**
-   ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20102224.png)
+   ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20113041.png)
 3. **Screenshot Statistics node**
    ![Decision Tree Output](https://github.com/c14250136-cmd/LAPORAN-ANALISIS-DATA-UNIVERSITAS-MENGGUNAKAN-KNIME/blob/main/Screenshot%202025-12-03%20102641.png)
 5. **Screenshot Linear Correlation**
